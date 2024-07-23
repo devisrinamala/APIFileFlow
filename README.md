@@ -1,4 +1,4 @@
-This project is developed using Jpa, Mysql, Postman
+This project is developed using Spring boot, Jpa, Mysql, Postman
 
 ![Screenshot 2024-07-17 202954](https://github.com/user-attachments/assets/190088b2-8b96-486c-a476-00f47b125648)
 ![Screenshot 2024-07-17 203116](https://github.com/user-attachments/assets/172cf22a-8260-43f9-89d2-a8b949eb64f5)
